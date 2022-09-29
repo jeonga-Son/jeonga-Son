@@ -47,6 +47,9 @@ Backend Developer
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-flat&logo=Kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=for-the-flat&logo=JSON Web Tokens&logoColor=white">
+
 </div>
 
 <br>
